@@ -1,7 +1,5 @@
 # Sorting Visualizer
 
-<img src="./visualizer-screenshot.png" alt="Sorting Visualizer" height="300">
-
 ## Description
 
 This Sorting Visualizer is a web application built with vanilla JavaScript, HTML, and CSS. It allows you to visualize various sorting algorithms in action, including Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, and Selection Sort. Additionally, you can generate a random array and adjust the visualization speed.
