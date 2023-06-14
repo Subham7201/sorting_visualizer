@@ -24,7 +24,7 @@ This Sorting Visualizer is a web application built with vanilla JavaScript, HTML
 
 ## Screenshots
 
-![Sorting Visualizer](./visualizer-screenshot1.png)
+![Sorting Visualizer](./visualizer-screenshot.png)
 
 ## Usage
 
